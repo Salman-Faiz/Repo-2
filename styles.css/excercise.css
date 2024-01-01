@@ -1,0 +1,38 @@
+.demo{
+    background-color:chocolate;
+    text-align: left;
+    border-radius: 10px;
+    border-left: 20px;
+    font-size:20px;
+    padding: 10px;
+    box-shadow: 5px 10px 10px;
+    
+}
+.inlineDemo{
+    color:deeppink;
+}
+.header{
+    text-align: left;
+    height: 300px;
+    width: 1200px;
+    border: 3px solid gray;
+    
+    /* background-image:linear-gradient(yellowgreen,red,chocolate); */
+    /* background-image:repeating-conic-gradient(red 10%,green 20% ); */
+    /* background-image: repeating-radial-gradient(red 4%, chocolate 5%, black 10%); */
+    background-image: url(../images/vikings.jpg);
+    
+    background-position:center;
+    background-size: contain;
+    color:crimson;
+}
+.input{
+    margin-left: 20px;
+}
+span{
+    color: purple;
+    border: 1px solid black;
+    display:inline-block;
+    height: 100px;
+    width: 100px;
+}
