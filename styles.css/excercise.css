@@ -6,11 +6,10 @@
     font-size:20px;
     padding: 10px;
     box-shadow: 5px 10px 10px;
+    height: 200px;
     
 }
-.inlineDemo{
-    color:deeppink;
-}
+
 .header{
     text-align: left;
     height: 300px;
